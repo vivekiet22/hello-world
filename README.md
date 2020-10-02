@@ -1,2 +1,2 @@
 # hello-world
-Creting my first repository
+Creating my first repository
